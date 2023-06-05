@@ -25,7 +25,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "alert() react-scripts start",
+    "start": "react-scripts start",
     "stop": "docker rm ugmk_test_app docker rmi ugmk_test_app",
     "build": "react-scripts build",
     "test": "react-scripts test",
